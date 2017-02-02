@@ -134,8 +134,5 @@
       </tr>
     </tbody>
 </table>
-<script type="text/javascript" src="https://cdn.datatables.net/r/bs-3.3.5/jqc-1.11.3,dt-1.10.8/datatables.min.js"></script>
-<script type="text/javascript" src="js/highlightRow.js"></script>
-<script type="text/javascript" src="js/highlightCell.js"></script>
-<script type="text/javascript" src="js/tableSort.js"></script>
+
 @stop
