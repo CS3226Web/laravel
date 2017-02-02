@@ -36,6 +36,10 @@
 </nav>
 @yield('main')
 <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://cdn.datatables.net/r/bs-3.3.5/jqc-1.11.3,dt-1.10.8/datatables.min.js"></script>
+<script type="text/javascript" src="js/highlightRow.js"></script>
+<script type="text/javascript" src="js/highlightCell.js"></script>
+<script type="text/javascript" src="js/tableSort.js"></script>
 </body>
 <footer>
   <div class="container text-center">
