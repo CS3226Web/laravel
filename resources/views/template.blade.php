@@ -25,7 +25,7 @@
     </div>
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        <li><a href="help.html">Help</a></li>
+        <li><a href="{{ url('help') }}">Help</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li><a href="">Admin Login</a></li>
