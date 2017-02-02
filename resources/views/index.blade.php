@@ -25,7 +25,7 @@
         <td>1</td>
         <td class="hidden-xs"><img src="img/smiley.jpg" class="flag"> SGP</td>
         <td class="hidden-xs"><img src="img/smiley.jpg" class="photo"><a href="{{url('student/1')}}"> Alice </a> </td>
-	      <td class="hidden-sm hidden-md hidden-lg"><a href="student1.html">Al</a></td>
+	      <td class="hidden-sm hidden-md hidden-lg"><a href="{{url('student/1')}}">Al</a></td>
         <td class="hidden-xs hidden-sm">1</td>
         <td class="hidden-xs hidden-sm highlighted">0</td>
         <td>1</td>
@@ -41,7 +41,7 @@
         <td>2</td>
         <td class="hidden-xs"><img src="img/smiley.jpg" class="flag"> SGP</td>
         <td class="hidden-xs"><img src="img/smiley.jpg" class="photo"><a href="{{url('student/2')}}"> Bob </a> </td>
-	      <td class="hidden-sm hidden-md hidden-lg"><a href="student2.html">B</a></td>
+	      <td class="hidden-sm hidden-md hidden-lg"><a href="{{url('student/2')}}">B</a></td>
         <td class="hidden-xs hidden-sm">1</td>
         <td class="hidden-xs hidden-sm highlighted">1</td>
         <td>1</td>
@@ -57,7 +57,7 @@
         <td>3</td>
         <td class="hidden-xs"><img src="img/smiley.jpg" class="flag"> SGP</td>
         <td class="hidden-xs"><img src="img/smiley.jpg" class="photo"><a href="{{url('student/3')}}"> Carl </a></td>
-	      <td class="hidden-sm hidden-md hidden-lg"><a href="student3.html">Cr</a></td>
+	      <td class="hidden-sm hidden-md hidden-lg"><a href="{{url('student/3')}}">Cr</a></td>
         <td class="hidden-xs hidden-sm">1</td>
         <td class="hidden-xs hidden-sm highlighted">0.5</td>
         <td>1</td>
