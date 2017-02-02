@@ -21,7 +21,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="">CS3233 Ranklist 2017</a>
+      <a class="navbar-brand" href="{{url('/')}}">CS3233 Ranklist 2017</a>
     </div>
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
@@ -39,7 +39,7 @@
 </body>
 <footer>
   <div class="container text-center">
-    <p>© 2017 Someone</p>
+    <p>&copy; 2017 Someone</p>
   </div>
 </footer>
 
